@@ -1,0 +1,17 @@
+{
+  "name": "@koddsson/github-user-component",
+  "version": "0.0.1",
+  "description": "A Web Component that showcases a user name and profile picture",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35",
+    "@web/test-runner": "^0.15.0"
+  }
+}
